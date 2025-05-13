@@ -1,6 +1,6 @@
 from StatesRepository import StatesRepository
 
-class Launcher:
+class tester:
     repo = StatesRepository()
     repo.add_state("00Q", "computacional", [1, 0])
     repo.add_state("01Q", "computacional", [0, 1])
